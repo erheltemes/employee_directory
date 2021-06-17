@@ -1,6 +1,6 @@
 # employee_directory
 
-## discription
+## description
 app creates and array of employee objects and displays them as a table.
 user can use the search feature to filter throuhg names that include the combination of chracters input.
 Lastly the user can any search alphabetically by last name.
