@@ -8,6 +8,7 @@ Lastly, the user can search alphabetically by last name.
 ## Installation
 App was created in react. Install dependencies.
 
+##Screenshot
 ![employee_directory_image](src/img/employee_directory.PNG?raw=true) 
 
 SITE LINK: https://erheltemes.github.io/employee_directory/
